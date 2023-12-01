@@ -12,7 +12,7 @@
 ---
 - 👋 Hi, I'm birdmanmandbir
 - 🔭 I'm currently working on cloud native/fullstack development
-- 📫 How to reach me: [bn0010100@outlook.com](mailto:bn0010100@outlook.com)
+- 📫 How to reach me: [bn0010100@gmail.com](mailto:bn0010100@gmail.com)
 <!-- - 📖 My motto: “东隅已逝，桑榆非晚。” -->
 ---
 
