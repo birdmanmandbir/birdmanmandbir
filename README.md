@@ -10,7 +10,7 @@
 </p>
 
 ---
-- 👋 Hi, I'm birdmanmandbir
+- 👋 Hi, I'm Neil
 - 🔭 I'm currently working on quest XR development
 - 📫 How to reach me: [bn0010100@gmail.com](mailto:bn0010100@gmail.com)
 <!-- - 📖 My motto: “东隅已逝，桑榆非晚。” -->
