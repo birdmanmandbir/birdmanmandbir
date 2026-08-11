@@ -1,6 +1,6 @@
 ### Hi, I'm Neil 👋
 
-I build peer-to-peer systems and local-first tools for people and agents.
+Building local-first tools for independent computing.
 
 **Currently building:**
 - 🕸️ **[Kepos](https://github.com/LamplitIsles/kepos)** — private access to self-hosted services over one HyperDHT connection, with Protomux channels and native Bare clients.
